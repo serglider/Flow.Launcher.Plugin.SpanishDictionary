@@ -1,0 +1,13 @@
+{
+  "$schema": "https://www.flowlauncher.com/schemas/plugin.schema.json",
+  "ID": "134c5aa5-fd46-433c-ae05-41f2ee82ac0b",
+  "ActionKeyword": "sd",
+  "Name": "SpanishDictionary.com",
+  "Description": "Opens provided words in SpanishDictionary.com",
+  "Author": "Sergey Chernykh",
+  "Version": "1.0.0",
+  "Language": "javascript",
+  "Website": "https://github.com",
+  "ExecuteFileName": "app.js",
+  "IcoPath": "images\\sd.png"
+}
